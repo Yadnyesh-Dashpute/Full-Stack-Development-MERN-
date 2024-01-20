@@ -1,0 +1,66 @@
+/* Basic Format of CSS  */
+
+
+
+h1{
+
+    /* Color Property - Used to set color of Foreground */
+
+    color: red;
+
+    /* Background Color Property - This is used to set Background Color*/
+
+    background-color: aqua;
+
+}
+
+/* Text Properties */
+
+p{
+    /* This for set Direction of Text */
+
+    text-align: center; 
+
+    /* This will set the Weight means the bold intensity of Text */
+    font-weight: 100;
+
+    /* This Will used for Underline or Decorate Text */
+    text-decoration: none;
+
+    /* This will used to set Line Height */
+    line-height: 1%;
+
+    /* For Letter Spacing This Tag is Used */
+    letter-spacing: normal;
+    
+    /*For Change the Size of Font This Tag is Used  */
+    font-size: large;
+
+}
+
+/* Font Size Units In CSS */
+
+    /* This is a units which will be Fixed */
+
+    /* Absolute */
+    
+    /* px, pt, pc, cm, mm, in */
+    
+
+    /* This is Based on Relative of An Element */
+    
+    /* Relative */
+
+    /* %, em, rem, ch, vh, vw+many more */
+
+/* Pixels(px) */
+
+    /* 96px = 1 inch */
+    /* It is Not Suitable for Responsive Websites */
+
+    /* font-size: 50px; */
+
+/* Font-Family - This is Mainly used for change the font family */
+
+    /* font-family: 'Courier New', Courier, monospace; */
+
